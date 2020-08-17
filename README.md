@@ -1,3 +1,3 @@
 # ScaleShooter
 
-This is a project Idea of Tim how somhow never started working on it.
+This is a project Idea of Tim who somhow never started working on it.
